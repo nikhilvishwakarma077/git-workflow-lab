@@ -1,4 +1,5 @@
 # Navbar
 Navigation links: Home, About, Contact
 
-Home 
+Add Home Section
+Home
