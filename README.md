@@ -6,5 +6,5 @@ Learning Git and GitHub through practical exercises.
 - Git basics
 - Version control
 
-Updated from loaclly again
+Updated completed 
 
