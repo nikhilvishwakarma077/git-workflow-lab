@@ -8,3 +8,5 @@ Learning Git and GitHub through practical exercises.
 
 
 Footer: Contact us
+
+Main branch: Project documentation
