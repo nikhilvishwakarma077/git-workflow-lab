@@ -6,3 +6,4 @@ Learning Git and GitHub through practical exercises.
 - Git basics
 - Version control
 
+Contact: contact@example.com
