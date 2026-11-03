@@ -6,7 +6,7 @@ Learning Git and GitHub through practical exercises.
 - Git basics
 - Version control
 
-
 Footer: Contact us
 
 Main branch: Project documentation
+Contact: contact@example.com
